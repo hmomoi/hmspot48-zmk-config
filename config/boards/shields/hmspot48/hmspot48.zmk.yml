@@ -1,0 +1,8 @@
+file_format: "1"
+id: hmspot48
+name: hmspot48
+type: shield
+url: https://github.com/hmomoi/hmspot48-zmk-config
+requires: [seeeduino_xiao_ble]
+features:
+  - keys

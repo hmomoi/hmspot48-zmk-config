@@ -1,0 +1,5 @@
+config SHIELD_HMSPOT48_R
+    def_bool $(shields_list_contains,hmspot48_R)
+
+config SHIELD_HMSPOT48_L
+    def_bool $(shields_list_contains,hmspot48_L)
